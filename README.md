@@ -2,7 +2,7 @@ Developed by:Pugazhalenthi V
 
 RegisterNumber:212224100047
 
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# SERIAL IN SERIAL OUT SHIFTREGISTER
 
 **AIM:**
 
